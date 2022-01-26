@@ -1,0 +1,10 @@
+1. baca data -> data tersimpan ke variabel
+2. Cari data klasifikasi -> hasil klasifikasi
+3. Mencari Probabilitas setiap kelas 
+	- Promosi
+	- Mutasi
+	- PHK
+	# Kelas / Jumlah data
+	-> Nilai PH
+4. Mencari Probabilitas Ciri terhadap Kelas
+	- 
